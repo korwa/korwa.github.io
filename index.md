@@ -6,7 +6,7 @@
 
 [Customer Service Desk Summary Report](/sample_page)
 <img src="customer_service.png?raw=true"/>
-
+ <a href="https://github.com/korwa/Customer-Service-Desk-Summary-Report">View on Github</a> 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
