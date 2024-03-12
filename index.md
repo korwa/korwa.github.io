@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Customer Service Desk Summary Report](/sample_page)
+[Customer Service Desk Summary Report]
 <img src="customer_service.png?raw=true"/>
  <a href="https://github.com/korwa/Customer-Service-Desk-Summary-Report">View on Github</a> 
  
