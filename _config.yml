@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Susan Korwa # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>I hold a MSc in Data Analytics. Currently employed as a Data Analyst. Currently using R, Excel, PowerBI , SQL in my day to day work<br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/susan-korwa/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
