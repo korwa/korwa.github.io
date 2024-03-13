@@ -9,8 +9,8 @@
  <a href="https://github.com/korwa/Customer-Service-Desk-Summary-Report">View on Github</a> 
  
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[COVID-19 Cases](/pdf/sample_presentation.pdf)
+<img src="COVID_19.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
