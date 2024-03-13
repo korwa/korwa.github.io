@@ -15,7 +15,8 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+ <a href="https://github.com/korwa/COVID-19-Cases">View on Github</a>
+ 
 ---
 
 ### Category Name 2
