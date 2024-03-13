@@ -11,11 +11,12 @@
 ---
 [COVID-19 Cases](/pdf/sample_presentation.pdf)
 <img src="COVID_19.png?raw=true"/>
-
+ <a href="https://github.com/korwa/COVID-19-Cases">View on Github</a>
+ 
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
- <a href="https://github.com/korwa/COVID-19-Cases">View on Github</a>
+
  
 ---
 
