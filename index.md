@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### EXCEL
 
 [Customer Service Desk Summary Report]
 <img src="customer_service.png?raw=true"/>
@@ -14,9 +14,9 @@
  <a href="https://github.com/korwa/COVID-19-Cases">View on Github</a>
  
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Real Estate Trends](http://example.com/)
+<img src="Screenshot 2024-03-19 220256.png?raw=true"/>
+<a href="https://github.com/korwa/Real Estate Trends.xlsm">View on Github</a> 
  
 ---
 
