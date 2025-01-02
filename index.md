@@ -20,7 +20,14 @@
  
 ---
 
-### Category Name 2
+### PowerBI
+---
+[Distribution of Insecticide Nets](http://example.com/)
+<img src="Screenshot nets.png?raw=true"/>
+<img src="net 2.png?raw=true"/>
+<a href="https://github.com/korwa/Distribution of Insecticide Nets.xlsm">View on Github</a> 
+ 
+---
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
