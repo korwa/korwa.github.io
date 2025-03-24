@@ -5,7 +5,7 @@
 ### 🧾 Excel Dashboards
 
 #### 📊 Customer Service Desk Summary Report  
-A dashboard tracking customer complaints, resolutions, and service desk KPIs. It uses pivot tables and conditional formatting to highlight trends and bottlenecks.  
+A dashboard tracking customer complaints, resolutions, and service desk KPIs. It uses pivot tables and conditional formatting to highlight trends and bottleneck.  
 <img class="portfolio-img" 
      src="/customer_service.png" 
      srcset="/customer_service.png 1x, /customer_service@2x.png 2x" 
