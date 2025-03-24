@@ -33,7 +33,7 @@ Analyzes property sales and pricing patterns across urban areas using dynamic da
      srcset="/Screenshot 2024-03-19 220256.png 1x, /Screenshot 2024-03-19 220256@2x.png 2x" 
      loading="lazy" 
      alt="Real estate pricing trends dashboard"/>
-<a href="https://github.com/korwa/Real-Estate-Trends.xlsm">📁 View on GitHub</a> 
+<a href="https://github.com/korwa/Real-Estate">📁 View on GitHub</a> 
 
 ---
 
