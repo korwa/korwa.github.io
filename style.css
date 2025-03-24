@@ -1,0 +1,30 @@
+.portfolio-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 8px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+.portfolio-img:hover {
+  transform: scale(1.02);
+}
+/* Make all images responsive and centered */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Optional: Only style portfolio/dashboard images */
+.portfolio-img {
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.portfolio-img:hover {
+  transform: scale(1.02);
+}
