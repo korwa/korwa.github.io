@@ -2,32 +2,60 @@
 
 ---
 
-### EXCEL
+### 🧾 Excel Dashboards
 
-[Customer Service Desk Summary Report]
-<img src="customer_service.png?raw=true"/>
- <a href="https://github.com/korwa/Customer-Service-Desk-Summary-Report">View on Github</a> 
- 
----
-[COVID-19 Cases](/pdf/sample_presentation.pdf)
-<img src="COVID_19.png?raw=true"/>
- <a href="https://github.com/korwa/COVID-19-Cases">View on Github</a>
- 
----
-[Real Estate Trends](http://example.com/)
-<img src="Screenshot 2024-03-19 220256.png?raw=true"/>
-<a href="https://github.com/korwa/Real Estate Trends.xlsm">View on Github</a> 
- 
+#### 📊 Customer Service Desk Summary Report  
+A dashboard tracking customer complaints, resolutions, and service desk KPIs. It uses pivot tables and conditional formatting to highlight trends and bottlenecks.  
+<img class="portfolio-img" 
+     src="/customer_service.png" 
+     srcset="/customer_service.png 1x, /customer_service@2x.png 2x" 
+     loading="lazy" 
+     alt="Customer service dashboard showing case resolution rates and categories"/>
+<a href="https://github.com/korwa/Customer-Service-Desk-Summary-Report">📁 View on GitHub</a> 
+
 ---
 
-### PowerBI
+#### 🦠 COVID-19 Cases  
+An Excel tracker showing COVID-19 trends over time, disaggregated by region, age, and case status. Includes dynamic charts and slicers for user interaction.  
+<img class="portfolio-img" 
+     src="/COVID_19.png" 
+     srcset="/COVID_19.png 1x, /COVID_19@2x.png 2x" 
+     loading="lazy" 
+     alt="COVID-19 dashboard with trendlines and regional filters"/>
+<a href="https://github.com/korwa/COVID-19-Cases">📁 View on GitHub</a>  
+
 ---
-[Distribution of Insecticide Nets](http://example.com/)
-<img src="Screenshot nets.png?raw=true"/>
-<img src="net 2.png?raw=true"/>
-<a href="https://github.com/korwa/Distribution of Insecticide Nets.xlsm">View on Github</a> 
- 
+
+#### 🏠 Real Estate Trends  
+Analyzes property sales and pricing patterns across urban areas using dynamic dashboards and trend analysis tools.  
+<img class="portfolio-img" 
+     src="/Screenshot 2024-03-19 220256.png" 
+     srcset="/Screenshot 2024-03-19 220256.png 1x, /Screenshot 2024-03-19 220256@2x.png 2x" 
+     loading="lazy" 
+     alt="Real estate pricing trends dashboard"/>
+<a href="https://github.com/korwa/Real-Estate-Trends.xlsm">📁 View on GitHub</a> 
+
 ---
+
+### 📈 Power BI Dashboards
+
+#### 🦟 Distribution of Insecticide Nets  
+This Power BI dashboard visualizes mosquito net distribution by district, demographic, and date range. It allows health teams to monitor stock levels and target vulnerable populations.  
+<img class="portfolio-img" 
+     src="/net 2.png" 
+     srcset="/net 2.png 1x /image@2x.png 2x" 
+     loading="lazy" 
+     alt="Power BI dashboard of insecticide net coverage"/>
+<img class="portfolio-img" 
+     src="/Screenshot nets.png" 
+     srcset="/Screenshot nets.png 1x, /Screenshot nets.png 2x" 
+     loading="lazy" 
+     alt="Map view showing net distribution by region"/>
+<a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
+
+---
+
+### 🛠️ Other Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -37,9 +65,4 @@
 
 ---
 
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
