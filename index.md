@@ -27,6 +27,14 @@ Analyzes property sales and pricing patterns across urban areas using dynamic da
 <a href="https://github.com/korwa/Real-Estate-Trends.xlsm">📁 View on GitHub</a> 
 
 ---
+### R shiny Dashboard
+#### ⚡ Energy Sector Dashboard  
+A Shiny app for exploring regional energy data with filters for capacity, output, and energy type. Allows interactive data exploration through dynamic plots.  
+<img src="energy1.png?raw=true" alt="Shiny dashboard showing energy output trends"/>
+<img src="energy2.png?raw=true" alt="Second view of energy dashboard"/>
+<a href="https://github.com/korwa/energy-sector-Dashboard">📁 View on GitHub</a>
+
+---
 
 ### 📈 Power BI Dashboards
 
@@ -39,9 +47,8 @@ This Power BI dashboard visualizes mosquito net distribution by district, demogr
 <a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
 
 ---
-### R shiny Dashboard
 
-#### ⚡ Energy Sector Dashboard  
+### R shiny Dashboard
 #### ⚡ Energy Sector Dashboard  
 A Shiny app for exploring regional energy data with filters for capacity, output, and energy type. Allows interactive data exploration through dynamic plots.  
 <img src="energy1.png?raw=true" alt="Shiny dashboard showing energy output trends"/>
