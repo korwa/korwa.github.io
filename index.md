@@ -14,10 +14,7 @@ A dashboard tracking customer complaints, resolutions, and service desk KPIs. It
 
 #### 🦠 COVID-19 Cases  
 An Excel tracker showing COVID-19 trends over time, disaggregated by region, age, and case status. Includes dynamic charts and slicers for user interaction.
-<img class="portfolio-img" 
-     src="COVID_19.png?raw=true" 
-     srcset="COVID_19.png?raw=true 1x, COVID_19.png?raw=true 1x" 
-     loading="lazy" 
+<img src="COVID_19.png?raw=true" 
      alt="COVID-19 dashboard with trendlines and regional filters"/>
 <a href="https://github.com/korwa/COVID-19-Cases">📁 View on GitHub</a>  
 
