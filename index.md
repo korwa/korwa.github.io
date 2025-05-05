@@ -22,10 +22,7 @@ An Excel tracker showing COVID-19 trends over time, disaggregated by region, age
 
 #### 🏠 Real Estate Trends  
 Analyzes property sales and pricing patterns across urban areas using dynamic dashboards and trend analysis tools.
-<img class="portfolio-img" 
-     src="Screenshot 2024-03-19 220256.png?raw=true" 
-     srcset="Screenshot 2024-03-19 220256.png?raw=true 1x, Screenshot 2024-03-19 220256.png?raw=true 1x" 
-     loading="lazy" 
+<img src="Screenshot 2024-03-19 220256.png?raw=true" 
      alt="Real estate pricing trends dashboard"/>
 <a href="https://github.com/korwa/Real-Estate-Trends.xlsm">📁 View on GitHub</a> 
 
@@ -35,21 +32,25 @@ Analyzes property sales and pricing patterns across urban areas using dynamic da
 
 #### 🦟 Distribution of Insecticide Nets  
 This Power BI dashboard visualizes mosquito net distribution by district, demographic, and date range. It allows health teams to monitor stock levels and target vulnerable populations.
-<img class="portfolio-img" 
-     src="Screenshot nets.png?raw=true" 
-     srcset="Screenshot nets.png?raw=true 1x, Screenshot nets.png?raw=true 1x" 
-     loading="lazy" 
+<img src="Screenshot nets.png?raw=true" 
      alt="Power BI dashboard of insecticide net coverage"/>
-<img class="portfolio-img" 
-     src="net 2.png?raw=true" 
-     srcset="net 2.png?raw=true 1x, net 2.png?raw=true 1x" 
-     loading="lazy" 
+<img src="net 2.png?raw=true" 
      alt="Map view showing net distribution by region"/>
 <a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
 
 ---
+### R shiny Dashboard
+
+#### ⚡ Energy Sector Dashboard  
+A Shiny app for exploring regional energy data with filters for capacity, output, and energy type. Allows interactive data exploration through dynamic plots.  
+<img src="energy_dashboard.png?raw=true" alt="Shiny dashboard screenshot showing energy output trends"/>
+<img src="energy_dashboard.png?raw=true" alt="Shiny dashboard screenshot showing energy output trends"/>
+<img src="energy_dashboard.png?raw=true" alt="Shiny dashboard screenshot showing energy output trends"/>
+<a href="https://github.com/korwa/Energy-Sector-Dashboard">📁 View on GitHub</a>
+
 
 ### 🛠️ Other Projects
+
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
