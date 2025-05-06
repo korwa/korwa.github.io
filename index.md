@@ -26,13 +26,6 @@ Analyzes property sales and pricing patterns across urban areas using dynamic da
      alt="Real estate pricing trends dashboard"/>
 <a href="https://github.com/korwa/Real-Estate-Trends.xlsm">📁 View on GitHub</a> 
 
----
-### R shiny Dashboard
-#### ⚡ Energy Sector Dashboard  
-A Shiny app for exploring regional energy data with filters for capacity, output, and energy type. Allows interactive data exploration through dynamic plots.  
-<img src="energy1.png?raw=true" alt="Shiny dashboard showing energy output trends"/>
-<img src="energy2.png?raw=true" alt="Second view of energy dashboard"/>
-<a href="https://github.com/korwa/energy-sector-Dashboard">📁 View on GitHub</a>
 
 ---
 
@@ -58,7 +51,16 @@ A Shiny app for exploring regional energy data with filters for capacity, output
 ---
 
 ### 🛠️ Other Projects
+---
 
+### R shiny Dashboard
+#### ⚡ Energy Sector Dashboard  
+A Shiny app for exploring regional energy data with filters for capacity, output, and energy type. Allows interactive data exploration through dynamic plots.  
+<img src="energy1.png?raw=true" alt="Shiny dashboard showing energy output trends"/>
+<img src="energy2.png?raw=true" alt="Second view of energy dashboard"/>
+<a href="https://github.com/korwa/energy-sector-Dashboard">📁 View on GitHub</a>
+
+---
 
 
 - [Project 1 Title](http://example.com/)
