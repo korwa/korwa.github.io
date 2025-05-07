@@ -40,6 +40,18 @@ This Power BI dashboard visualizes mosquito net distribution by district, demogr
 <a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
 
 ---
+### R shiny Dashboard
+
+### ⚡ Energy Sector Dashboard  
+This Shiny app allows you to explore regional energy data with filters for capacity, output, and energy type.
+
+<iframe src="https://4kgbdp-bbm02un040zkhg7-korwa.shinyapps.io/energy-sector-Dashboard/"
+        width="100%" height="700" frameborder="0" style="border:1px solid #ccc;">
+</iframe>
+
+[📁 View the GitHub Code](https://github.com/korwa/energy-sector-Dashboard)
+
+---
 
 ### R shiny Dashboard
 
