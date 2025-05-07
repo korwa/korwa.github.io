@@ -6,7 +6,7 @@
 
 #### 📊 Customer Service Desk Summary Report  
 A dashboard tracking customer complaints, resolutions, and service desk KPIs. It uses pivot tables and conditional formatting to highlight trends and bottlenecks.
-<img src="customer_service.png?raw=true" 
+<img src="image/customer_service.png?raw=true" 
      alt="Customer service dashboard showing case resolution rates and categories"/>
 <a href="https://github.com/korwa/Customer-Service-Desk-Summary-Report">📁 View on GitHub</a> 
 
