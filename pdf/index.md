@@ -67,7 +67,7 @@ A Shiny app for exploring regional energy data with filters for capacity, output
 
 
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 #### ⚡ Energy Sector Dashboard](https://4kgbdp-bbm02un040zkhg7-korwa.shinyapps.io/energy-sector-Dashboard/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
