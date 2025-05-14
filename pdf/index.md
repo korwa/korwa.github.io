@@ -40,26 +40,29 @@ This Power BI dashboard visualizes mosquito net distribution by district, demogr
 <a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
 
 ---
-### R shiny Dashboard
 
-### ⚡ Energy Sector Dashboard  
-This Shiny app allows you to explore regional energy data with filters for capacity, output, and energy type.
+### 💻 R Shiny Dashboards
+
+#### ⚡ Energy Sector Dashboard  
+An interactive Shiny app for exploring regional energy data by capacity, output, and energy type.
 
 <iframe src="https://4kgbdp-bbm02un040zkhg7-korwa.shinyapps.io/energy-sector-Dashboard/"
         width="100%" height="700" frameborder="0" style="border:1px solid #ccc;">
 </iframe>
 
-[📁 View the GitHub Code](https://github.com/korwa/energy-sector-Dashboard)
+<img src="image/energy1.png?raw=true" alt="Shiny dashboard showing energy output trends"/>
+<img src="image/energy2.png?raw=true" alt="Second view of energy dashboard"/>  
+<a href="https://github.com/korwa/energy-sector-Dashboard">📁 View on GitHub</a>
 
 ---
 
-### R shiny Dashboard
+### 🛠️ Other Projects
 
-#### ⚡ Energy Sector Dashboard  
-A Shiny app for exploring regional energy data with filters for capacity, output, and energy type. Allows interactive data exploration through dynamic plots.  
-<img src="image/energy1.png?raw=true" alt="Shiny dashboard showing energy output trends"/>
-<img src="image/energy2.png?raw=true" alt="Second view of energy dashboard"/>
-<a href="https://github.com/korwa/energy-sector-Dashboard">📁 View on GitHub</a>
+- [⚡ Energy Sector Dashboard (Live Link)](https://4kgbdp-bbm02un040zkhg7-korwa.shinyapps.io/energy-sector-Dashboard/)
+<!-- Add more real projects or remove placeholders below -->
+<!-- - [📘 Project 2 Title](http://example.com/) -->
+<!-- - [📘 Project 3 Title](http://example.com/) -->
+<!-- - [📘 Project 4 Title](http://example.com/) -->
 
 ---
 
