@@ -20,15 +20,6 @@ An Excel tracker showing COVID-19 trends over time, disaggregated by region, age
 
 ---
 
-#### 🏠 Real Estate Trends  
-Analyzes property sales and pricing patterns across urban areas using dynamic dashboards and trend analysis tools.
-<img src="image/Screenshot 2024-03-19 220256.png?raw=true" 
-     alt="Real estate pricing trends dashboard"/>
-<a href="https://github.com/korwa/Real-Estate-Trends.xlsm">📁 View on GitHub</a> 
-
-
----
-
 ### 📈 Power BI Dashboards
 
 #### 🦟 Distribution of Insecticide Nets  
@@ -55,6 +46,16 @@ An interactive Shiny app for exploring regional energy data by capacity, output,
 <a href="https://github.com/korwa/energy-sector-Dashboard">📁 View on GitHub</a>
 
 ---
+
+
+#### 🏠 Real Estate Trends  
+Analyzes property sales and pricing patterns across urban areas using dynamic dashboards and trend analysis tools.
+<img src="image/Screenshot 2024-03-19 220256.png?raw=true" 
+     alt="Real estate pricing trends dashboard"/>
+<a href="https://github.com/korwa/Real-Estate-Trends.xlsm">📁 View on GitHub</a> 
+
+---
+
 
 ### 🛠️ Other Projects
 
