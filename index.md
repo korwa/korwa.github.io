@@ -23,7 +23,7 @@ An Excel tracker showing COVID-19 trends over time, disaggregated by region, age
 #### 🦟 Distribution of Insecticide Nets  
 This Power BI dashboard visualizes mosquito net distribution by district, demographic, and date range. It allows health teams to monitor stock levels and target vulnerable populations.
 <img src="image/Screenshot nets.png?raw=true"/>
-<img src="net2.png?raw=true"/>     
+<img src="image/net 2.png?raw=true"/>     
 <a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
 
 ---
