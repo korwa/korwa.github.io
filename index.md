@@ -37,9 +37,12 @@ An interactive Shiny app for exploring regional energy data by capacity, output,
         width="100%" height="700" frameborder="0" style="border:1px solid #ccc;">
 </iframe>
 
+<!--
 <img src="image/energy1.png?raw=true"/>
 <img src="image/energy2.png?raw=true"/>  
 <a href="https://github.com/korwa/energy-sector-Dashboard">📁 View on GitHub</a>
+-->
+📁 View on GitHub</a>
 
 ---
 
