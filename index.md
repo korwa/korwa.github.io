@@ -23,7 +23,7 @@ An Excel tracker showing COVID-19 trends over time, disaggregated by region, age
 #### 🦟 Distribution of Insecticide Nets  
 This Power BI dashboard visualizes mosquito net distribution by district, demographic, and date range. It allows health teams to monitor stock levels and target vulnerable populations.
 <img src="image/Screenshot nets.png?raw=true"/>
-<img src="net 2.png?raw=true"/>     
+<img src="net2.png?raw=true"/>     
 <a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
 
 ---
@@ -59,18 +59,6 @@ Analyzes property sales and pricing patterns across urban areas using dynamic da
 <!-- - [📘 Project 2 Title](http://example.com/) -->
 <!-- - [📘 Project 3 Title](http://example.com/) -->
 <!-- - [📘 Project 4 Title](http://example.com/) -->
-
----
-
-### 🛠️ Other Projects
-
-
-
-- [Project 1 #### ⚡ Energy Sector Dashboard](https://4kgbdp-bbm02un040zkhg7-korwa.shinyapps.io/energy-sector-Dashboard/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
