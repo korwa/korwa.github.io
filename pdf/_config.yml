@@ -1,11 +1,11 @@
 title: Susan Korwa # your name (or website title) here
 logo: "image/passport.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Summary
-  <br>I hold an MSc in Data Analytics. Currently employed as a Data Analyst. I use Microsoft Fabric, R,Python, Excel, PowerBI, and SQL in my day-to-day work<br>
- 
+  First description 
   <br><br>
-  <a href="https://www.linkedin.com/in/susan-korwa/">View My LinkedIn Profile</a> 
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
