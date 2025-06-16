@@ -1,13 +1,12 @@
-title: Susan Korwa # your name (or website title) here
-logo: "image/passport.png?raw=true" # your photo (or logo) here
-description: >  Data-driven impact analyst passionate about humanitarian innovation, evidence-based programming, and responsible data use.
-  <br><br>
-  I build interactive dashboards and systems for transparency and informed decisions.
-  <br><br>
-  <a href="https://www.linkedin.com/in/susan-korwa/">View My LinkedIn Profile</a> 
-  
+title: Susan Korwa
+logo: "image/passport.png?raw=true"
+description: >
+  Data-driven impact analyst passionate about humanitarian innovation, evidence-based programming, and responsible data use.<br><br>
+  I build interactive dashboards and systems for transparency and informed decisions.<br><br>
+  <a href="https://www.linkedin.com/in/susan-korwa/">View My LinkedIn Profile</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
 
+google_analytics: UA-000000-0
