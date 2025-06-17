@@ -1,12 +1,24 @@
-title: Susan Korwa
-logo: "image/passport.png?raw=true"
-description: >
-  Data-driven impact analyst passionate about humanitarian innovation, evidence-based programming, and responsible data use.<br><br>
-  I build interactive dashboards and systems for transparency and informed decisions.<br><br>
-  <a href="https://www.linkedin.com/in/susan-korwa/">View My LinkedIn Profile</a>
-
-remote_theme: pages-themes/minimal@v0.2.0
+title: Susan Korwa | Impact Data Analyst
+email: susankorwa7@gmail.com
+description: >- 
+  Portfolio of Susan Korwa — Impact Systems Officer and MEAL Analyst.
+  Experienced in Power BI, R, SQL, Python, ODK, and QGIS.
+baseurl: ""
+url: "https://korwa.github.io"
+theme: minima
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
+nav:
+  - title: "Home"
+    url: /
+  - title: "Toolbox"
+    url: /toolbox/
+  - title: "Dashboards"
+    url: /projects/
+  - title: "Resume"
+    url: /resume/
+  - title: "Contact"
+    url: /contact/
 google_analytics: UA-000000-0
