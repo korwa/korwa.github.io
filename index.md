@@ -1,8 +1,6 @@
 ## Portfolio
 ---
-layout: home
-title: "Welcome"
----
+
 <img src="image/passport.png" alt="Susan Korwa" width="200" style="border-radius: 50%; margin-bottom: 20px;">
 # 👋 Hello, I'm Susan Korwa
 
