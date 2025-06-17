@@ -13,6 +13,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+google_analytics: UA-000000-0
+
 nav:
   - title: "Home"
     url: /
@@ -24,4 +26,3 @@ nav:
     url: /resume/
   - title: "Contact"
     url: /contact/
-google_analytics: UA-000000-0
