@@ -3,7 +3,7 @@
 layout: home
 title: "Welcome"
 ---
-logo: "image/passport.png?raw=true"
+<img src="image/passport.png" alt="Susan Korwa" width="200" style="border-radius: 50%; margin-bottom: 20px;">
 # 👋 Hello, I'm Susan Korwa
 
 I'm a data and impact systems professional with over 8 years of experience working in humanitarian, public health, and development sectors. I use tools like R, Power BI, SQL, and ODK to turn data into action. Explore my dashboards, skillsets, and resume below.
