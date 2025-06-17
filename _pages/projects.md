@@ -6,12 +6,21 @@ permalink: /projects/
 
 ## 📊 Selected Dashboards
 
-### 🦟 Insecticide Net Distribution
-A Power BI dashboard showing regional reach and gender-sensitive distribution of mosquito nets.
-[View on GitHub](https://github.com/korwa/energy-sector-Dashboard)
+### 🦟 Insecticide Net Distribution  
+📌 Tool: Power BI  
+🧩 Feature: Regional and gender-sensitive disaggregation  
+🔗 [View on GitHub](https://github.com/korwa/energy-sector-Dashboard)
 
-### 🧾 Service Desk Report
-Excel-based dashboard tracking complaints, resolution time, and KPIs.
+---
 
-### 🦠 COVID-19 Tracker
-Excel dashboard visualizing COVID trends disaggregated by age, region, and status.
+### 🧾 Customer Service Desk Report  
+📌 Tool: Excel  
+🧩 Feature: KPIs, resolution rates, conditional formatting  
+🔗 [View on GitHub](https://github.com/korwa/Customer-Service-Desk-Summary-Report)
+
+---
+
+### 🦠 COVID-19 Tracker  
+📌 Tool: Excel  
+🧩 Feature: Dynamic slicers by region, age, status  
+🔗 [View on GitHub](https://github.com/korwa/COVID-19-Cases)
