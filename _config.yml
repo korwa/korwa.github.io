@@ -33,3 +33,10 @@ nav:
     url: /resume/
   - title: "Contact"
     url: /contact/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
