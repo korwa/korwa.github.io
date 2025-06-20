@@ -25,5 +25,5 @@ permalink: /toolbox/
 - **Geospatial Tools**: QGIS  🌍 
 - **Database & ETL**: SQL, Power Query  🗃
 - **Survey Platforms**: ODK, KoboToolbox, SurveyCTO  📱
-- **Project Management & Collaboration**: GitHub, Trello, Slack, Teams
+- **Project Management & Collaboration**: GitHub, Trello, Slack, Teams 🤝
 
