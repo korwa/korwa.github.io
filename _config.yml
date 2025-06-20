@@ -5,10 +5,20 @@ description: >-
   Experienced in Power BI, R, SQL, Python, ODK, and QGIS.
 baseurl: ""
 url: "https://korwa.github.io"
-theme: minima
+markdown: kramdown
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+  include:
+  - _pages
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 google_analytics: UA-000000-0
 
