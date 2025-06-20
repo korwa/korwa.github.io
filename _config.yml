@@ -1,38 +1,16 @@
-title: Susan Korwa | Impact Data Analyst
-email: susankorwa7@gmail.com
+title: Susan Korwa
+email: your-email@example.com
 description: >- 
-  Portfolio of Susan Korwa — Impact Systems Officer and MEAL Analyst.
-  Experienced in Power BI, R, SQL, Python, ODK, and QGIS.
-baseurl: ""
-url: "https://korwa.github.io"
-markdown: kramdown
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  Data portfolio showcasing analytics, visualizations, and impact-driven dashboards.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://korwa.github.io" # the base hostname & protocol
 
-  include:
-  - _pages
+theme: minimal-mistakes-jekyll
 
 collections:
   pages:
     output: true
     permalink: /:path/
-
-google_analytics: UA-000000-0
-
-nav:
-  - title: "Home"
-    url: /
-  - title: "Toolbox"
-    url: /toolbox/
-  - title: "Dashboards"
-    url: /projects/
-  - title: "Resume"
-    url: /resume/
-  - title: "Contact"
-    url: /contact/
 
 defaults:
   - scope:
@@ -40,3 +18,6 @@ defaults:
       type: pages
     values:
       layout: page
+
+plugins:
+  - jekyll-remote-theme
