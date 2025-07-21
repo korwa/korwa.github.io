@@ -41,7 +41,12 @@ This Power BI dashboard visualizes mosquito net distribution by district, demogr
 <a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
 
 ---
+#### 🦟 Proposal Pipeline 
+This Power BI dashboard visualizes Current Proposals and amount they are seeking in funidng, award rate , ccuarrent budget requirements vs revenue available. This is to highlight any funding gaps and ensure the team make any necessary changes.
+<img src="image/proposal pipeline.png?raw=true"/>
+<a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
 
+---
 ### 💻 R Shiny Dashboards
 
 #### ⚡ Energy Sector Dashboard  
