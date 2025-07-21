@@ -41,10 +41,10 @@ This Power BI dashboard visualizes mosquito net distribution by district, demogr
 <a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
 
 ---
-#### 🦟 Proposal Pipeline 
-This Power BI dashboard visualizes Current Proposals and amount they are seeking in funidng, award rate , ccuarrent budget requirements vs revenue available. This is to highlight any funding gaps and ensure the team make any necessary changes.
+#### 💰 Multi-Year Budget & Grants Pipeline Dashboard 
+An interactive Power BI dashboard designed to give stakeholders a clear view of our funding landscape, from proposal pipeline through multi-year budget planning, enabling rapid identification of funding gaps and informed decision-making.It demonstrates end-to-end proficiency in Power BI—data integration, measure creation, visual design, and storytelling—to ensure the team can proactively manage grant proposals, optimize funding strategies, and close critical budget gaps.
 <img src="image/proposal pipeline.png?raw=true"/>
-<a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
+
 
 ---
 ### 💻 R Shiny Dashboards
