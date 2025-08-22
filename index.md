@@ -5,7 +5,7 @@
 
 # 👋 Hello, I'm Susan Korwa
 
-I'm a data and impact systems professional with over 8 years of experience working in humanitarian, public health, and development sectors. I use tools like R, Power BI, SQL, and ODK to turn data into action. Explore my dashboards, skillsets, and resume below.
+Results-driven Data and sytems Impact Analyst with 8+ years’ experience in public health, humanitarian, and development sectors, specializing in impact measurement, results-based management (RBM), grants management and advanced data analytics. Proven record in strengthening data ecosystems, integrating survey, EMR, and administrative data, and aligning reporting with government and donor frameworks. Skilled in building and automating data systems, developing actionable dashboards, and applying spatial and statistical techniques to inform decision-making. Experienced in partnering with ministries, NGOs, and donors, leading cross-cultural teams, and mentoring local staff across 11+ African countries to improve institutional capacity, data use, and program outcomes.
 
 ---
 
