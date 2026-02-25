@@ -28,7 +28,7 @@ An Excel tracker showing COVID-19 trends over time, disaggregated by region, age
 #### 🏠 Real Estate Trends  
 Analyzes property sales and pricing patterns across urban areas using dynamic dashboards and trend analysis tools.
 <img src="image/Screenshot 2024-03-19 220256.png?raw=true"/>
-<a href="https://github.com/korwa/Real-Estate-Trends.xlsm">📁 View on GitHub</a> 
+<a href="https://github.com/korwa/Real-Estate">📁 View on GitHub</a> 
 
 ---
 
@@ -38,12 +38,13 @@ Analyzes property sales and pricing patterns across urban areas using dynamic da
 This Power BI dashboard visualizes mosquito net distribution by district, demographic, and date range. It allows health teams to monitor stock levels and target vulnerable populations.
 <img src="image/Screenshot nets.png?raw=true"/>
 <img src="image/net 2.png?raw=true"/>     
-<a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
+<a href="https://github.com/korwa/Distribution-of-Insecticide-Nets">📁 View on GitHub</a> 
 
 ---
 #### 💰 Multi-Year Budget & Grants Pipeline Dashboard 
 An interactive Power BI dashboard designed to give stakeholders a clear view of our funding landscape, from proposal pipeline through multi-year budget planning, enabling rapid identification of funding gaps and informed decision-making.It demonstrates end-to-end proficiency in Power BI—data integration, measure creation, visual design, and storytelling—to ensure the team can proactively manage grant proposals, optimize funding strategies, and close critical budget gaps.
 <img src="image/proposal pipeline.png?raw=true"/>
+<a href="https://github.com/korwa/proposal-pipeline">📁 View on GitHub</a> 
 
 
 ---
