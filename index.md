@@ -119,6 +119,17 @@ An interactive Shiny app for exploring regional energy data by capacity, output,
 
 ---
 
+## Let's Connect
+
+Interested in data systems, impact measurement, analytics, or MEAL?
+
+📧 susankorwa7@gmail.com
+
+🔗 LinkedIn- https://www.linkedin.com/in/susan-korwa/ 
+
+💻 GitHub https://github.com/korwa
+
+📄 Resume
 
 ### 🛠️ Other Projects
 
