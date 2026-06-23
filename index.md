@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 <img src="image/passport.png" alt="Susan Korwa" width="180" style="border-radius: 50%; margin-bottom: 20px;">
 
 ## Portfolio
