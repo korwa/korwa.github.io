@@ -146,3 +146,23 @@ footer {
 .btn.secondary {
   background: #4d5965;
 }
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.hero-actions .btn {
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .hero-actions {
+    flex-direction: column;
+  }
+
+  .hero-actions .btn {
+    width: 100%;
+  }
+}
