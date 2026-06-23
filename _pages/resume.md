@@ -6,8 +6,10 @@ permalink: /resume/
 
 ## 📄 Resume
 
-You can [download my resume](../pdf/Susan_Korwa_Resume.pdf) or view it below:
-<a href="pdf/Susan Korwa Resume .pdf" class="btn">📄 Download Resume</a>
+[📥 Download Resume](/pdf/Susan%20Korwa%20Resume%20.pdf)
 
-
-<iframe src="..pdf/Susan Korwa Resume .pdf" width="100%" height="600px"></iframe>
+<iframe
+src="/pdf/Susan%20Korwa%20Resume%20.pdf"
+width="100%"
+height="900">
+</iframe>
