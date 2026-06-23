@@ -13,7 +13,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+author:
+  name: Susan Korwa
 google_analytics: UA-000000-0
 
 nav:
@@ -31,5 +32,4 @@ nav:
     url: /resume/
   - title: "Contact"
     url: /contact/
-  - title: "Certifications"
-    url: /certifications/
+  
