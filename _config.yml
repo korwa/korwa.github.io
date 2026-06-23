@@ -7,6 +7,8 @@ description: >-
   humanitarian and development programs.
 baseurl: ""
 url: "https://korwa.github.io"
+include:
+  - _pages
 theme: minima
 plugins:
   - jekyll-feed
