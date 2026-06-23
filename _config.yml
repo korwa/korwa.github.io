@@ -1,8 +1,10 @@
-title: Susan Korwa | Data and systems analyst
+title: Susan Korwa | Impact Systems & Analytics Specialist
 email: susankorwa7@gmail.com
 description: >- 
-  Portfolio of Susan Korwa — Impact Systems Officer and MEAL Analyst.
-  Experienced in Power BI, R, SQL, Python, ODK, and QGIS.
+  Portfolio of Susan Korwa, Impact Systems Officer and MEAL Specialist.
+  Experienced in data systems, evaluations, business intelligence,
+  survey platforms, analytics, and capacity strengthening across health,
+  humanitarian and development programs.
 baseurl: ""
 url: "https://korwa.github.io"
 theme: minima
@@ -15,10 +17,14 @@ google_analytics: UA-000000-0
 nav:
   - title: "Home"
     url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "MEAL Systems"
+    url: /meal-systems/
   - title: "Toolbox"
     url: /toolbox/
-  - title: "Dashboards"
-    url: /projects/
   - title: "Resume"
     url: /resume/
   - title: "Contact"
