@@ -1,73 +1,48 @@
 ---
 layout: default
-title: "Dashboards"
+title: Projects
 permalink: /projects/
 ---
 
-## 📊 Selected Dashboards
+# Featured Case Studies
 
----
+These case studies highlight my work across MEAL, impact measurement, data systems, analytics, and business intelligence.
 
-### 🧾 Excel Dashboards
+<div class="project-grid">
 
-#### 📊 Customer Service Desk Summary Report  
-A dashboard tracking customer complaints, resolutions, and service desk KPIs. It uses pivot tables and conditional formatting to highlight trends and bottlenecks.
-<img src="{{ '/image/customer_service.png' | relative_url }}" alt="Customer service dashboard">
-<a href="https://github.com/korwa/Customer-Service-Desk-Summary-Report">📁 View on GitHub</a> 
+<div class="project-card">
+<h2>🌍 Multi-Country Data Systems Automation</h2>
+<p>Automated data management workflows supporting humanitarian and development programs across multiple countries.</p>
+<p><strong>Tools:</strong> Microsoft Fabric, Data Factory, Power Query, SQL, ONA, Excel</p>
+<a class="btn" href="{{ '/projects/data-systems-automation/' | relative_url }}">View Case Study</a>
+</div>
 
----
+<div class="project-card">
+<h2>📊 Burundi OGI Baseline & Endline Evaluation</h2>
+<p>Analysis and reporting of baseline and endline studies assessing resilience, savings, nutrition, child protection and social capital.</p>
+<p><strong>Tools:</strong> R, Excel, Power BI, ODK</p>
+<a class="btn" href="{{ '/projects/burundi-ogi-evaluation/' | relative_url }}">View Case Study</a>
+</div>
 
-#### 🦠 COVID-19 Cases  
-An Excel tracker showing COVID-19 trends over time, disaggregated by region, age, and case status. Includes dynamic charts and slicers for user interaction.
-<img src="{{ '/image/COVID_19.png' | relative_url }}" alt="COVID-19 dashboard">
-<a href="https://github.com/korwa/COVID-19-Cases">📁 View on GitHub</a>  
+<div class="project-card">
+<h2>💰 Grants & Budget Pipeline Dashboard</h2>
+<p>Power BI dashboard supporting grant management, proposal tracking, budget oversight and funding pipeline visibility.</p>
+<p><strong>Tools:</strong> Power BI, Power Query, Excel, DAX</p>
+<a class="btn" href="{{ '/projects/grants-budget-dashboard/' | relative_url }}">View Case Study</a>
+</div>
 
----
+<div class="project-card">
+<h2>🦟 ITN Distribution Dashboard</h2>
+<p>Interactive dashboard used to monitor insecticide-treated net distribution, referrals, redemptions and implementation gaps.</p>
+<p><strong>Tools:</strong> Power BI, Excel, SQL</p>
+<a class="btn" href="{{ '/projects/itn-dashboard/' | relative_url }}">View Case Study</a>
+</div>
 
-#### 🏠 Real Estate Trends  
-Analyzes property sales and pricing patterns across urban areas using dynamic dashboards and trend analysis tools.
-<img src="{{ '/image/Screenshot 2024-03-19 220256.png' | relative_url }}" alt="Real Estate Dashboard">
-<a href="https://github.com/korwa/Real-Estate-Trends.xlsm">📁 View on GitHub</a> 
+<div class="project-card">
+<h2>📝 MEAL Survey Systems</h2>
+<p>Digital survey systems for baseline studies, endline evaluations, routine monitoring, assessments and registrations.</p>
+<p><strong>Tools:</strong> ODK, SurveyCTO, KoboToolbox, ONA, XLSForm</p>
+<a class="btn" href="{{ '/projects/meal-survey-systems/' | relative_url }}">View Case Study</a>
+</div>
 
----
-
-### 📈 Power BI Dashboards
-
-#### 🦟 Distribution of Insecticide Nets  
-This Power BI dashboard visualizes mosquito net distribution by district, demographic, and date range. It allows health teams to monitor stock levels and target vulnerable populations.
-<img src="{{ '/image/Screenshot nets.png' | relative_url }}" alt="Distribution of nets dashboard">
-<img src="{{ '/image/net 2.png' | relative_url }}">     
-<a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
-
----
-
-### 💻 R Shiny Dashboards
-
-#### ⚡ Energy Sector Dashboard  
-An interactive Shiny app for exploring regional energy data by capacity, output, and energy type.
-
-<iframe src="https://4kgbdp-bbm02un040zkhg7-korwa.shinyapps.io/energy-sector-Dashboard/"
-        width="100%" height="700" frameborder="0" style="border:1px solid #ccc;">
-</iframe>
-
-<!--
-<img src="image/energy1.png?raw=true"/>
-<img src="image/energy2.png?raw=true"/>  
-<a href="https://github.com/korwa/energy-sector-Dashboard">📁 View on GitHub</a>
--->
-📁 View on GitHub</a>
-
----
-
-
-### 🛠️ Other Projects
-
-- [⚡ Energy Sector Dashboard (Live Link)](https://4kgbdp-bbm02un040zkhg7-korwa.shinyapps.io/energy-sector-Dashboard/)
-<!-- Add more real projects or remove placeholders below -->
-<!-- - [📘 Project 2 Title](http://example.com/) -->
-<!-- - [📘 Project 3 Title](http://example.com/) -->
-<!-- - [📘 Project 4 Title](http://example.com/) -->
-
----
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+</div>
