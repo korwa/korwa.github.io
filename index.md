@@ -5,9 +5,62 @@
 
 # 👋 Hello, I'm Susan Korwa
 
-Results-driven Data and sytems Impact Analyst with 8+ years’ experience in public health, humanitarian, and development sectors, specializing in impact measurement, results-based management (RBM), grants management and advanced data analytics. Proven record in strengthening data ecosystems, integrating survey, EMR, and administrative data, and aligning reporting with government and donor frameworks. Skilled in building and automating data systems, developing actionable dashboards, and applying spatial and statistical techniques to inform decision-making. Experienced in partnering with ministries, NGOs, and donors, leading cross-cultural teams, and mentoring local staff across 11+ African countries to improve institutional capacity, data use, and program outcomes.
+## Impact Systems & Analytics Specialist
+
+Supporting humanitarian and development programs through data systems, evaluations, analytics, and evidence-driven decision making.
 
 ---
+
+### Professional Highlights
+
+| Area | Value |
+|--------|--------|
+| Experience | 9+ Years |
+| Countries Supported | 11+ |
+| Surveys Developed | 50+ |
+| Staff Trained | 100+ |
+| Dashboards Developed | 20+ |
+
+---
+
+### Areas of Expertise
+
+- Monitoring Evaluation Accountability and Learning (MEAL)
+- Impact Measurement
+- Survey Design and Data Collection
+- Power BI and Business Intelligence
+- Microsoft Fabric Data Systems
+- Statistical Analysis
+- Capacity Strengthening
+- Program Evaluation
+
+---
+
+### Featured Projects
+### 🌍 Multi-Country Data Systems Automation
+
+Worked with Consultants  and team to design and implement automated data pipelines using Microsoft Fabric, Data Factory, SQL and Power Query to streamline survey and program reporting across multiple countries.
+
+**Impact**
+
+- Reduced reporting preparation time by over 7 days
+- Improved data quality and consistency
+- Standardized country reporting workflows
+
+---
+
+### 📊 Burundi OGI Baseline & Endline Evaluation
+
+Led quantitative and qualitative analysis for baseline and endline studies assessing household resilience, savings participation, food security, child protection and social capital.
+
+**Key Results**
+
+- Savings participation increased from 48% to 95%
+- HDDS improved from 18% to 65%
+- Child protection attitudes improved significantly
+
+---
+
 
 ### 🧾 Excel Dashboards
 
