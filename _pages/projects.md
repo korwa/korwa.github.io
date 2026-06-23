@@ -12,21 +12,21 @@ permalink: /projects/
 
 #### 📊 Customer Service Desk Summary Report  
 A dashboard tracking customer complaints, resolutions, and service desk KPIs. It uses pivot tables and conditional formatting to highlight trends and bottlenecks.
-<img src="image/customer_service.png?raw=true"/>
+<img src="{{ '/image/customer_service.png' | relative_url }}" alt="Customer service dashboard">
 <a href="https://github.com/korwa/Customer-Service-Desk-Summary-Report">📁 View on GitHub</a> 
 
 ---
 
 #### 🦠 COVID-19 Cases  
 An Excel tracker showing COVID-19 trends over time, disaggregated by region, age, and case status. Includes dynamic charts and slicers for user interaction.
-<img src="image/COVID_19.png?raw=true"/>
+<img src="{{ '/image/COVID_19.png' | relative_url }}" alt="COVID-19 dashboard">
 <a href="https://github.com/korwa/COVID-19-Cases">📁 View on GitHub</a>  
 
 ---
 
 #### 🏠 Real Estate Trends  
 Analyzes property sales and pricing patterns across urban areas using dynamic dashboards and trend analysis tools.
-<img src="image/Screenshot 2024-03-19 220256.png?raw=true"/>
+<img src="{{ '/image/Screenshot 2024-03-19 220256.png' | relative_url }}" alt="Real Estate Dashboard">
 <a href="https://github.com/korwa/Real-Estate-Trends.xlsm">📁 View on GitHub</a> 
 
 ---
@@ -35,8 +35,8 @@ Analyzes property sales and pricing patterns across urban areas using dynamic da
 
 #### 🦟 Distribution of Insecticide Nets  
 This Power BI dashboard visualizes mosquito net distribution by district, demographic, and date range. It allows health teams to monitor stock levels and target vulnerable populations.
-<img src="image/Screenshot nets.png?raw=true"/>
-<img src="image/net 2.png?raw=true"/>     
+<img src="{{ '/image/Screenshot nets.png' | relative_url }}" alt="Distribution of nets dashboard">
+<img src="{{ '/image/net 2.png' | relative_url }}">     
 <a href="https://github.com/korwa/Distribution-of-Insecticide-Nets.xlsm">📁 View on GitHub</a> 
 
 ---
