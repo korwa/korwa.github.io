@@ -66,3 +66,24 @@ footer {
   color: #555;
   border-top: 1px solid #e0e0e0;
 }
+
+img {
+  border-radius: 8px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+}
+
+iframe {
+  border-radius: 8px;
+}
+
+.project-card {
+  border: 1px solid #e5e5e5;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
