@@ -97,3 +97,38 @@ footer {
   border-top: 1px solid #e5e5e5;
   color: #666666;
 }
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 22px;
+  margin-top: 24px;
+}
+
+.project-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 22px;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.project-card h2 {
+  margin-top: 0;
+  font-size: 1.25rem;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 6px;
+  background: #0f766e;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background: #115e59;
+  color: #ffffff;
+}
