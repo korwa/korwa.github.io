@@ -132,3 +132,17 @@ footer {
   background: #115e59;
   color: #ffffff;
 }
+.profile-photo {
+  width: 180px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.hero {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.btn.secondary {
+  background: #4d5965;
+}
