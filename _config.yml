@@ -24,6 +24,8 @@ nav:
     url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "Dashboards"
+    url: /dashboards/
   - title: "MEAL Systems"
     url: /meal-systems/
   - title: "Toolbox"
