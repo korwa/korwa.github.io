@@ -12,9 +12,11 @@ Impact Systems & Analytics Specialist
 
 Supporting humanitarian and development programs through data systems, evaluations, analytics, dashboards, and evidence-driven decision making.
 
-View Case Studies
-View Dashboards
-View Resume
+<div class="hero-actions">
+  <a class="btn" href="{{ '/projects/' | relative_url }}">View Case Studies</a>
+  <a class="btn secondary" href="{{ '/dashboards/' | relative_url }}">View Dashboards</a>
+  <a class="btn secondary" href="{{ '/resume/' | relative_url }}">View Resume</a>
+</div>
 
 ---
 
