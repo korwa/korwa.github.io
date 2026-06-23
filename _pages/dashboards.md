@@ -6,77 +6,92 @@ permalink: /dashboards/
 
 # Dashboard Portfolio
 
-This page highlights selected dashboards developed for monitoring, reporting, program management and decision-making.
-
-<div class="project-grid">
-
-<div class="project-card">
-<h2>💰 Grants & Budget Pipeline Dashboard</h2>
-<p>Dashboard for proposal tracking, funding pipeline visibility, award status monitoring and budget oversight.</p>
-<p><strong>Focus:</strong> Grants, Finance, Pipeline Management</p>
-<p><strong>Tools:</strong> Power BI, Power Query, Excel, DAX</p>
-<a class="btn" href="{{ '/projects/grants-budget-dashboard/' | relative_url }}">View Case Study</a>
-</div>
-
-<div class="project-card">
-<h2>🦟 ITN Distribution Dashboard</h2>
-<p>Dashboard for tracking households without ITNs, referrals, redemptions and follow-up gaps.</p>
-<p><strong>Focus:</strong> Public Health, Program Monitoring</p>
-<p><strong>Tools:</strong> Power BI, Excel, SQL</p>
-<a class="btn" href="{{ '/projects/itn-dashboard/' | relative_url }}">View Case Study</a>
-</div>
-
-<div class="project-card">
-<h2>📈 Program Performance Dashboard</h2>
-<p>Dashboard for tracking program indicators, country progress, target achievement and implementation performance.</p>
-<p><strong>Focus:</strong> MEAL, Indicator Tracking, Program Quality</p>
-<p><strong>Tools:</strong> Power BI, Excel, Power Query</p>
-</div>
-
-<div class="project-card">
-<h2>🌍 Country Indicator Dashboard</h2>
-<p>Dashboard for comparing indicator performance across country offices and supporting leadership-level decision-making.</p>
-<p><strong>Focus:</strong> Multi-country Reporting, Executive Analytics</p>
-<p><strong>Tools:</strong> Power BI, SQL, Excel</p>
-</div>
-
-<div class="project-card">
-<h2>📊 Evaluation Results Dashboard</h2>
-<p>Dashboard for visualizing baseline and endline findings, including outcome changes, disaggregation and statistical summaries.</p>
-<p><strong>Focus:</strong> Evaluations, Impact Measurement</p>
-<p><strong>Tools:</strong> Power BI, R, Excel</p>
-</div>
-
-<div class="project-card">
-<h2>📋 Survey Monitoring Dashboard</h2>
-<p>Dashboard for monitoring survey progress, enumerator performance, data quality checks and fieldwork completion.</p>
-<p><strong>Focus:</strong> Data Collection, Field Monitoring, Data Quality</p>
-<p><strong>Tools:</strong> ONA, ODK, Power BI, Excel</p>
-</div>
-
-</div>
+This page includes dashboards that have actual dashboard visuals or live dashboard links.
 
 ---
 
-## Learning Projects & Demonstrations
+## 📈 Power BI Dashboards
 
-These projects demonstrate additional dashboard design and analytics practice.
+### 💰 Multi-Year Budget & Grants Pipeline Dashboard
 
-<div class="project-grid">
+An interactive Power BI dashboard designed to provide visibility into proposal pipelines, funding gaps, grant status, and multi-year budget planning.
 
-<div class="project-card">
-<h2>Customer Service Dashboard</h2>
-<p>Dashboard analyzing support requests, customer service performance and issue trends.</p>
-</div>
+**Focus:** Grants, Finance, Pipeline Management  
+**Tools:** Power BI, Power Query, Excel, DAX
 
-<div class="project-card">
-<h2>COVID-19 Dashboard</h2>
-<p>Dashboard analyzing COVID-19 cases, trends and regional patterns.</p>
-</div>
+<img src="{{ '/image/proposal pipeline.png' | relative_url }}" alt="Proposal pipeline dashboard">
 
-<div class="project-card">
-<h2>Real Estate Dashboard</h2>
-<p>Dashboard exploring property prices, market trends and location-based insights.</p>
-</div>
+[📁 View on GitHub](https://github.com/korwa/proposal-pipeline)
 
-</div>
+---
+
+### 🦟 Distribution of Insecticide Nets
+
+This Power BI dashboard visualizes mosquito net distribution and helps monitor referral, redemption, and follow-up gaps.
+
+**Focus:** Public Health, Program Monitoring  
+**Tools:** Power BI, Excel, SQL
+
+<img src="{{ '/image/Screenshot nets.png' | relative_url }}" alt="Distribution of nets dashboard">
+
+<img src="{{ '/image/net 2.png' | relative_url }}" alt="ITN dashboard second screenshot">
+
+[📁 View on GitHub](https://github.com/korwa/Distribution-of-Insecticide-Nets)
+
+---
+
+## 🧾 Excel Dashboards
+
+### 📊 Customer Service Desk Summary Report
+
+A dashboard tracking customer complaints, resolutions, and service desk KPIs.
+
+**Focus:** Customer Service Analytics  
+**Tools:** Excel, Pivot Tables, Conditional Formatting
+
+<img src="{{ '/image/customer_service.png' | relative_url }}" alt="Customer service dashboard">
+
+[📁 View on GitHub](https://github.com/korwa/Customer-Service-Desk-Summary-Report)
+
+---
+
+### 🦠 COVID-19 Cases
+
+An Excel tracker showing COVID-19 trends over time, disaggregated by region, age, and case status.
+
+**Focus:** Public Health Analytics  
+**Tools:** Excel, Charts, Slicers
+
+<img src="{{ '/image/COVID_19.png' | relative_url }}" alt="COVID-19 dashboard">
+
+[📁 View on GitHub](https://github.com/korwa/COVID-19-Cases)
+
+---
+
+### 🏠 Real Estate Trends
+
+Analyzes property sales and pricing patterns across urban areas using dynamic dashboards and trend analysis tools.
+
+**Focus:** Market Analytics  
+**Tools:** Excel, Pivot Tables, Charts
+
+<img src="{{ '/image/Screenshot 2024-03-19 220256.png' | relative_url }}" alt="Real Estate Dashboard">
+
+[📁 View on GitHub](https://github.com/korwa/Real-Estate)
+
+---
+
+## 💻 R Shiny Dashboard
+
+### ⚡ Energy Sector Dashboard
+
+An interactive Shiny app for exploring regional energy data by capacity, output, and energy type.
+
+**Focus:** Energy Analytics, Interactive Visualization  
+**Tools:** R, Shiny, Data Visualization
+
+<iframe src="https://4kgbdp-bbm02un040zkhg7-korwa.shinyapps.io/energy-sector-Dashboard/"
+        width="100%" height="700" frameborder="0" style="border:1px solid #ccc;">
+</iframe>
+
+[📁 View on GitHub](https://github.com/korwa/energy-sector-Dashboard)
