@@ -18,7 +18,7 @@ These case studies highlight my work across MEAL, impact measurement, data syste
 </div>
 
 <div class="project-card">
-<h2>📊 Burundi OGI Baseline & Endline Evaluation</h2>
+<h2>📊 Baseline & Endline Evaluation</h2>
 <p>Analysis and reporting of baseline and endline studies assessing resilience, savings, nutrition, child protection and social capital.</p>
 <p><strong>Tools:</strong> R, Excel, Power BI, ODK</p>
 <a class="btn" href="{{ '/projects/burundi-ogi-evaluation/' | relative_url }}">View Case Study</a>
