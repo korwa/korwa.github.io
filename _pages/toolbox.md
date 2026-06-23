@@ -7,16 +7,40 @@ permalink: /toolbox/
 
 ## 🧰 Tools & Technologies
 
-- 📊 Power BI
+## Analytics
+
 - 🧪 R
 - 🐍 Python
 - 🗃 SQL
 - 📈 Excel
-- 🌍 QGIS
-- 📱 ODK, KoboToolbox, SurveyCTO
-- 🧠 NVIVO
+
+## Business Intelligence
+
+- 📊 Power BI
+- 📊 Power Query
 - ☁️ Microsoft Fabric
+
+## Survey Systems
+
+- 📱 ODK, KoboToolbox, SurveyCTO
+- 
+## GIS
+- 🌍 QGIS
+
+## Qualitative Analysis
+
+- 🧠 NVIVO
+
+## Cloud & Collaboration
+
 - 🤝 GitHub, Trello, Slack, Teams, SharePoint
+
+## AI Tools 
+
+- Claude
+- ChatGPT
+- GitHub Copilot
+- AI Assisted Reporting Workflows
 
 ## 🧰 Tool application
 
