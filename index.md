@@ -4,8 +4,6 @@ title: Home
 ---
 <img src="image/passport.png" alt="Susan Korwa" width="180" style="border-radius: 50%; margin-bottom: 20px;">
 
-<img src="{{ '/image/passport.png' | relative_url }}" alt="Susan Korwa" width="180" class="profile-photo">
-
 # 👋 Hello, I'm Susan Korwa
 
 ## Impact Systems & Analytics Specialist
